@@ -1,7 +1,7 @@
 # ✈️ Airline Management System (AMS)
 
 A **C++ console-based project** that manages airline operations such as **flights, passengers, and staff records**.  
-Built using **Object-Oriented Programming (OOP)** concepts with **file handling** for persistent data storage.  
+Built using **file handling** for persistent data storage.  
 
 ---
 
