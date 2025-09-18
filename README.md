@@ -27,8 +27,7 @@ Built using **file handling** for persistent data storage.
 
 ## ⚙️ Tech Stack
 
-- **Language:** C++  
-- **Concepts:** OOP (Classes, Inheritance, Polymorphism)  
+- **Language:** C++   
 - **Database:** File Handling (text files)  
 - **IDE:** Visual Studio Code  
 
